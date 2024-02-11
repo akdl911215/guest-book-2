@@ -74,4 +74,3 @@ public class GuestbookServiceTests {
         System.out.println(service.register(guestbookDTO));
     }
 }
-
